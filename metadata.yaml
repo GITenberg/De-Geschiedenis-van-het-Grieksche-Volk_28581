@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5176
     wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28581#De-Geschiedenis-van-het-Grieksche-Volk
 gutenberg_issued: '2009-04-20'
 gutenberg_type: Text
 identifiers:
