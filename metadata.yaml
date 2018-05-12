@@ -1,0 +1,35 @@
+_repo: De-Geschiedenis-van-het-Grieksche-Volk_28581
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Goudsmit, Boudewijn Casper
+    alias: Goudsmit, B. C.
+    birthdate: 1849
+    deathdate: 1915
+    gutenberg_agent_id: '8764'
+    url: http://www.gutenberg.org/2009/agents/8764
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tappan, Eva March
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '5176'
+    url: http://www.gutenberg.org/2009/agents/5176
+    wikipedia: http://en.wikipedia.org/wiki/Eva_March_Tappan
+description: ''
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28581'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- History'
+title: De Geschiedenis van het Grieksche Volk
+url: http://www.gutenberg.org/ebooks/28581
